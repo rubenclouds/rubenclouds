@@ -1,3 +1,5 @@
+<img width="600" height="600" alt="st,small,507x507-pad,600x600,f8f8f8 u2" src="https://github.com/user-attachments/assets/ea47603e-6e59-4866-bb22-468c3c6d67d9" />
+
 Hi there 👋
 
 🔭 I’m currently working on sotware parameters for vehicle controllers...
